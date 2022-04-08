@@ -1,1 +1,1 @@
-console.log("Up File to Github for Git")
+console.log("Up File to Github for Gits")
